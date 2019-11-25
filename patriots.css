@@ -29,6 +29,7 @@ body {
 }
 
 h3 {
+    font-family: 'Baskervville', serif;
     background-color: #e67451;
     margin-left: auto;
     margin-right: auto;
@@ -37,6 +38,7 @@ h3 {
 }
 
 h1 {
+    font-family: 'Calistoga', cursive;
     background-color: #e67451;
     margin-left: auto;
     margin-right: auto;
@@ -45,6 +47,7 @@ h1 {
 }
 
 h2 {
+    font-family: 'Viga', sans-serif;
     background-color: #e67451;
     margin-left: auto;
     margin-right: auto;
@@ -56,6 +59,7 @@ h2 {
 }
 
 li {
+    font-family: 'Antic', sans-serif;
     background-color: #e67451;
     margin-left: auto;
     margin-right: auto;
