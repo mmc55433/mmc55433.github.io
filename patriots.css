@@ -79,7 +79,11 @@ div {
 }
 
 .btn-primary {
-    color: #B0B7BC;
+    font-color: #B0B7BC;
+    color: #C60C30;
+    display: inline-block;
     background-color: #C60C30;
     border-color: #C60C30;
 }
+    
+
