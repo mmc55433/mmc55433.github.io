@@ -7,7 +7,7 @@ main {
 }
 
 header {
-    font-family: 'Anton', sans-serif;
+    font-family: 'Bowlby One SC', cursive;
     padding-top: 20px;
     padding-bottom: 20px;
     letter-spacing: 3px;
@@ -43,6 +43,13 @@ h1 {
     margin-bottom: auto;
     font-size: 30px;
 }
+
+h2 {
+    background-color: #e67451;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    font-size: 30px;
 
 .underline {
     text-decoration: underline;
