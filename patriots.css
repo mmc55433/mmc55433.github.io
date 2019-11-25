@@ -19,18 +19,18 @@ header {
 }
 
 body {
-    background-color: #e67451;
+    background-color: #002244;
     margin-left: 50px;
     margin-right: 50px;
     padding-top: auto;
     font-family: 'Baskervville', serif;
     font-size: 30px;
-    color: #fefcff;
+    color: #B0B7BC;
 }
 
 h3 {
     font-family: 'Baskervville', serif;
-    background-color: #e67451;
+    background-color: #002244;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: auto;
@@ -39,7 +39,7 @@ h3 {
 
 h1 {
     font-family: 'Calistoga', cursive;
-    background-color: #e67451;
+    background-color: #002244;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: auto;
@@ -48,7 +48,7 @@ h1 {
 
 h2 {
     font-family: 'Viga', sans-serif;
-    background-color: #e67451;
+    background-color: #002244;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: auto;
@@ -60,7 +60,7 @@ h2 {
 
 li {
     font-family: 'Antic', sans-serif;
-    background-color: #e67451;
+    background-color: #002244;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: auto;
@@ -78,7 +78,7 @@ div {
 }
 
 .btn-primary {
-    color: #FFFFFF;
-    background-color: #E56E94;
-    border-color: #E56E94;
+    color: #B0B7BC;
+    background-color: #C60C30;
+    border-color: #C60C30;
 }
