@@ -4,6 +4,7 @@ main {
     flex-wrap: wrap;
     margin-left: auto;
     margin-right: auto;
+}
 
 header {
     font-family: 'Bowlby One SC', cursive;
@@ -52,6 +53,7 @@ h2 {
     margin-right: auto;
     margin-bottom: auto;
     font-size: 30px;
+}
 
 .underline {
     text-decoration: underline;
@@ -72,6 +74,7 @@ li {
     margin-right: auto;
     margin-bottom: auto;
     font-size: 30px;
+}
 
 
 .btn-primary {
