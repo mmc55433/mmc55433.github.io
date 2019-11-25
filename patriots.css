@@ -2,8 +2,8 @@ main {
     display: flex;
     width: 80%;
     flex-wrap: wrap;
-   margin-left: 50px;
-    margin-right: 50px;
+   margin-left: auto;
+    margin-right: auto;
     padding-top: auto;
 }
 
@@ -21,8 +21,8 @@ header {
 
 body {
     background-color: #002244;
-    margin-left: 50px;
-    margin-right: 50px;
+    margin-left: auto;
+    margin-right: auto;
     padding-top: auto;
     font-family: 'Baskervville', serif;
     font-size: 30px;
@@ -32,8 +32,8 @@ body {
 h3 {
     font-family: 'Baskervville', serif;
     background-color: #002244;
-    margin-left: 50px;
-    margin-right: 50px;
+    margin-left: auto;
+    margin-right: auto;
     padding-top: auto;
     font-size: 30px;
 }
